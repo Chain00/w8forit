@@ -1,0 +1,1 @@
+W8forIT\W8forIT\bin\Debug\W8forIT http://localhost:3723/sedcup2013/teams/Client2
